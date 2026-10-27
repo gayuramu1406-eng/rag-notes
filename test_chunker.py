@@ -12,3 +12,4 @@ for i, c in enumerate(chunks):
     print(f"--- Chunk {i} ({len(c['text'])} chars) from {c['source']} ---")
     print(preview)
     print()
+    

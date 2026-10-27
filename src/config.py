@@ -24,7 +24,7 @@ Rules:
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 
 # --- Chunking settings ---
-CHUNK_SIZE = 1000       # characters per chunk
+CHUNK_SIZE = 1200       # characters per chunk
 CHUNK_OVERLAP = 200    # characters shared between consecutive chunks
 
 # --- Retrieval settings ---
